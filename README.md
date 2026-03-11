@@ -27,4 +27,10 @@ Simulation of a helicopter main rotor using python programming language
 "forwardSpeed" -> foward speed (considered only if hover is False)
 
 "dt":          -> temporal step
+
 "simTime":     -> simulation time
+
+
+
+
+![Rotor Simulator](rotor.png)
