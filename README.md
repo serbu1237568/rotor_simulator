@@ -33,4 +33,4 @@ Simulation of a helicopter main rotor using python programming language
 
 
 
-![Rotor Simulator](rotor.png)
+![Rotor_Simulatro](rotor.png)
