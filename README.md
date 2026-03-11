@@ -33,4 +33,4 @@ Simulation of a helicopter main rotor using python programming language
 
 
 
-![Rotor_Simulatro](rotor.png)
+<img src="rotor.png" alt="Rotor Blade" width="400"/>
